@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Card Project Template
 //
-//  Created by Mark Nair on 11/20/23.
+//  Created by [YOUR NAME GOES HERE].
 //
 
 import SwiftUI
